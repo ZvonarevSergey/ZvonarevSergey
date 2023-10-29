@@ -1,0 +1,40 @@
+.cards_1 {
+    background-image: url(https://stigmat19.github.io/scsite/static/media/cards.7e0a18f0.png);
+    background-position: 0px 386px;
+    float: left;
+    width: 136px; 
+    height: 184px; 
+    border: solid rgb(0, 0, 0) 1px;
+}
+.cards_2 {
+    background-image: url(https://stigmat19.github.io/scsite/static/media/cards.7e0a18f0.png);
+    background-position: 283px 585px;
+    float: left;
+    width: 136px; 
+    height: 184px; 
+    border: solid rgb(0, 0, 0) 1px;
+}
+.cards_3 {
+    background-image: url(https://stigmat19.github.io/scsite/static/media/cards.7e0a18f0.png);
+    background-position: 138px 785px;
+    float: left;
+    width: 136px; 
+    height: 184px; 
+    border: solid rgb(0, 0, 0) 1px;
+}
+.cards_4 {
+    background-image: url(https://stigmat19.github.io/scsite/static/media/cards.7e0a18f0.png);
+    background-position: 0px 985px;
+    float: left;
+    width: 136px; 
+    height: 184px; 
+    border: solid rgb(0, 0, 0) 1px;
+}
+.cards_5 {
+    background-image: url(https://stigmat19.github.io/scsite/static/media/cards.7e0a18f0.png);
+    background-position: 283px 187px;
+    float: left;
+    width: 136px; 
+    height: 184px; 
+    border: solid rgb(0, 0, 0) 1px;
+}
