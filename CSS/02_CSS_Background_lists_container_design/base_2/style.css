@@ -1,0 +1,18 @@
+.code {
+    background-color: black;
+    color: #00ff00;
+    width: 400px;
+    overflow: auto;
+    max-height: 70px;
+}
+ul.roman_lower {
+    list-style: lower-roman;
+    width: 350px;
+}
+ul.roman_upper {
+    list-style: upper-roman;
+    width: 350px;
+}
+li ul {
+    list-style: decimal;
+}
