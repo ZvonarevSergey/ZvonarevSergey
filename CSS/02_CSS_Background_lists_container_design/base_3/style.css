@@ -1,0 +1,28 @@
+img {
+    float: right;
+    margin-right: 5px;
+    background: url(icon_mail.png)
+    top right no-repeat;
+}
+
+.wrap {
+    background-color: whitesmoke;
+}
+
+.menu {
+    width: 15em;
+    background-color: gainsboro;
+    float: left;
+}
+
+.article {
+    margin-bottom: 2em;
+    background-color: darkgray;
+    margin-left: 240px;
+    overflow: hidden;
+}
+
+.footer {
+    background-color: lavender;
+    clear:both;
+}
