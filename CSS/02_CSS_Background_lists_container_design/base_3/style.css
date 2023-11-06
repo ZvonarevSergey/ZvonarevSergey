@@ -22,7 +22,10 @@ img {
     overflow: hidden;
 }
 
+.clear {
+    clear: both;
+}
+
 .footer {
     background-color: lavender;
-    clear:both;
 }
